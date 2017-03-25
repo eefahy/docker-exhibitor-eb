@@ -1,0 +1,1 @@
+FROM mbabineau/zookeeper-exhibitor
