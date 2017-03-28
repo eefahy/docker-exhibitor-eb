@@ -9,5 +9,5 @@
       "ContainerPort": "8181 2181 2888 3888"
     }
   ],
-  "Logging": "/var/log/zookeeper-exhibitor"
+  "Logging": "/var/log"
 }
